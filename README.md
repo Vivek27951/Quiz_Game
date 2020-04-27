@@ -1,2 +1,2 @@
 # Quiz_Game
-It is a simple c-programmed game.
+It is a simple c-programmed Quiz game.
